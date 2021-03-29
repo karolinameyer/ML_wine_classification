@@ -1,5 +1,6 @@
 # ML_wine_classification
-Red wine classification problem. Using different models and tunning hyperparameters with GridSearchCV.
+Red wine classification problem from [kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+Solved using different ML classificasion models and tunning hyperparameters with GridSearchCV.
 
 Two approaches:
  - **wine_classification**  
