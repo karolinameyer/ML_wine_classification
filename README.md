@@ -2,9 +2,9 @@
 Red wine classification problem. Using different models and tunning hyperparameters with GridSearchCV.
 
 Two approaches:
- - wine_classification
+ - **wine_classification**  
  original target class: quality, values from 1 to 10
- - wine_classification_target_adjustment
+ - **wine_classification_target_adjustment**  
  target class modification: only 2 quality classes bad/good
  
 This dataset is not easy to classify because of too many insufficiently distinct target groups and unevenly distributed samples per class.
