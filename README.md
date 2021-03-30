@@ -14,4 +14,6 @@ That is the reason why the first approach's models shows bad results.
 Thus, in the second approach target group is modified for 2 classes: bad and good. Results are much better. Nevertheless there are still some drowbacks, there is a big inequality in number of samples per classes. Thus the recall and precission of good-quality class is to improve.  
 
 
-The best ML model here is xgboost with validation accuracy score of 0.92.
+The best ML model here is xgboost with validation accuracy score of 0.92.  
+
+**TO IMPROVE**
